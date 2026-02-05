@@ -22,3 +22,4 @@
 ## Commentaires
 - For the first scan initiate compass + inclinometer
 - H approximative of the lens 150 cm from ground
+- Left bank scanned from the right bank

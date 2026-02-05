@@ -11,10 +11,13 @@
 - Scan 2022 : Rive05
 
 ## Photo
-*(ajouter photo.jpg ici)*
+/photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- Resolution 1/2 *4 Profil Ext HDR
+- H 135 - 242
+- V -6 +18
+- Estimate duration 20mins 
 
 ## Commentaires
-- 
+- Left bank scanned from the right bank
