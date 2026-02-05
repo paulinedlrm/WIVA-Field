@@ -11,10 +11,14 @@
 - Scan 2022 : Rive04
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- Resolution 1/2 *4 Profil Ext HDR
+- H 125 - 235
+- V -5 20
+- Estimate duration 20mins 
 
 ## Commentaires
-- 
+- For the first scan initiate compass + inclinometer
+- H approximative of the lens 150 cm from ground
