@@ -14,7 +14,7 @@
 ./photo/@preview.jpg
 
 ## Réglages scanner
-- Resolution 1/2 *4 Profil Ext HDR
+- Resolution 1/2 *4 Profil Ext HDR- HR
 - H 125 - 235
 - V -5 20
 - Estimate duration 20mins 

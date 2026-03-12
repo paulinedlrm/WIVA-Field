@@ -11,10 +11,12 @@
 - Scan 2022 : Rive11
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 130 225
+- V -5 13
+-estimated duration of the scan 18'
 
 ## Commentaires
-- 
+- Right bank from left bank (Rive 9)

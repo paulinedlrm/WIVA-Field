@@ -11,10 +11,13 @@
 - Scan 2022 : Rive16
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- same
+- H 150 -212
+- V - 50 15 may change du to avulsion
 
 ## Commentaires
-- 
+- Right bank
+- pins on the bar

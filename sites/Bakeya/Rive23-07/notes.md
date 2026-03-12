@@ -11,10 +11,12 @@
 - Scan 2022 : nan
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 136 232
+- V -13 9
+
 
 ## Commentaires
 - 

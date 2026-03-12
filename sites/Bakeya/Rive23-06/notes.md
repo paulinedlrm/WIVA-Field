@@ -11,10 +11,12 @@
 - Scan 2022 : Rive01
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 128 232
+- V -13 13
+- Approximative duration 20'
 
 ## Commentaires
-- 
+- nothing

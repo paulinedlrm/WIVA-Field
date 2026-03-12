@@ -11,10 +11,12 @@
 - Scan 2022 : Rive12
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 125 235
+- V -5 13
+- Approximative duration 21'
 
 ## Commentaires
-- 
+- Nothing special, V can be adjusted depending on the river height.

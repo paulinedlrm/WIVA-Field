@@ -11,10 +11,12 @@
 - Scan 2022 : Rive09 Rive10
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H -110 153 (go up to 190)
+- V -35 10
 
 ## Commentaires
-- 
+- Bar left bank measured from left bank
+- Measured in one time
