@@ -11,10 +11,11 @@
 - Scan 2022 : Rive28
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 125, 245
+- V -6, 18
 
 ## Commentaires
 - 

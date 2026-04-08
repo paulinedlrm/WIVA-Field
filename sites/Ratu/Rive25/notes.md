@@ -11,10 +11,11 @@
 - Scan 2022 : Rive25
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 110, 245
+- V -4, 11
 
 ## Commentaires
-- 
+- Plus près

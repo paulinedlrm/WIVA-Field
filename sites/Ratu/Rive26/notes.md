@@ -11,10 +11,11 @@
 - Scan 2022 : Rive26
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 130, 240
+- V -6, 20
 
 ## Commentaires
-- 
+- Zoom rive 25 aval

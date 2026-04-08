@@ -11,10 +11,11 @@
 - Scan 2022 : Rive22
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 125, 230
+-V -6, 13
 
 ## Commentaires
-- 
+- Beaucoup plus près, capteur de pression dans la barre

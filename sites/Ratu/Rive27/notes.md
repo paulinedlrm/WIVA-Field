@@ -11,10 +11,11 @@
 - Scan 2022 : Rive27
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 115, 225
+- V -6, 18
 
 ## Commentaires
-- 
+- Zoom rive 25 aval +

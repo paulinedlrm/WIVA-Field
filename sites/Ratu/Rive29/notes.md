@@ -11,10 +11,11 @@
 - Scan 2022 : Rive29
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 125, 235
+- V 0, 30
 
 ## Commentaires
-- 
+- Aval need to cross the river, we had to walk down

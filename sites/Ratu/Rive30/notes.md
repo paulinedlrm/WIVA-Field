@@ -11,10 +11,12 @@
 - Scan 2022 : Rive30
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 90, 270
+- V -5, 30
 
 ## Commentaires
-- 
+- Aval, dernier scan
+- Fall of a bar 23-24
