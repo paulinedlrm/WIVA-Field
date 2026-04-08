@@ -11,10 +11,12 @@
 - Scan 2022 : Rive21
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 115, 250
+- V -24, 3
+- approx 25mins
 
 ## Commentaires
-- 
+- Chenal from left bank

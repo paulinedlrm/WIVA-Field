@@ -14,7 +14,11 @@
 *(ajouter photo.jpg ici)*
 
 ## Réglages scanner
-- À compléter
+- H 165, 205
+- V -61, -10
+- R 1/2, Qx6
+
 
 ## Commentaires
-- 
+- Barre sous l'eau plein de problèmes
+- mesure des pins un peu pourrie a refaire

@@ -11,10 +11,12 @@
 - Scan 2022 : Na
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 115, 250
+- V -24, 3
+- Approx 25 mins
 
 ## Commentaires
-- 
+- Chennal from Right bank

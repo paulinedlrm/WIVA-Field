@@ -11,10 +11,12 @@
 - Scan 2022 : Rive19
 
 ## Photo
-*(ajouter photo.jpg ici)*
+./photo/@preview.jpg
 
 ## Réglages scanner
-- À compléter
+- H 155, 250
+- V -11, 23 (Vérifier an fonction de la hauteur du scan)
+- Reso same as Bakeya
 
 ## Commentaires
-- 
+- Falaise jauge pression
